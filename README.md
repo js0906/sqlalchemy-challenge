@@ -1,3 +1,6 @@
+NOTE: I had to comment out the available routes to run the app.py server and write in text=asdf. Regular URL's should work.
+
+
 # SQLAlchemy Homework - Surfs Up!
 
 ### Before You Begin
